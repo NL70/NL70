@@ -8,9 +8,6 @@
 <img src="https://user-images.githubusercontent.com/55304809/163203382-aa15c18d-014e-4386-b790-d44c53c1415f.svg" width="50px">
 <img src="https://user-images.githubusercontent.com/55304809/163203418-86548c26-9bd9-4efe-a409-641c1e51b2a4.svg width="50px">
 <img src="https://user-images.githubusercontent.com/55304809/163203424-bae0abee-2102-4376-b90a-bf3909fae717.svg" width="50px">
-<img src="https://your-image-url.type" width="50px">
-<img src="https://your-image-url.type" width="50px">
-<img src="https://your-image-url.type" width="50px">
 
 ## Tools I use and other information:
 
@@ -18,7 +15,7 @@
 
 ## Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl70&show_icons=true&theme=light&show_owner=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl70&show_icons=true&theme=light&show_owner=true&include_all_commits=true&custom_title="NL70")
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NL70" />
 
