@@ -19,7 +19,7 @@
 
 ## Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl70&show_icons=true&theme=light&show_owner=true&include_all_commits=true&custom_title=NL70's Github Stats: )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl70&show_icons=true&theme=light&show_owner=true&include_all_commits=true&custom_title=NL70's+Github+Stats:)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NL70" />
 
