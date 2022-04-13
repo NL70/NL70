@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Some languages I use/know:
-
+<img src="https://user-images.githubusercontent.com/55304809/163202993-e048ff6f-7242-4185-824b-cd359bdce8e8.svg" width="50px">
 ![cplusplus](https://user-images.githubusercontent.com/55304809/163202993-e048ff6f-7242-4185-824b-cd359bdce8e8.svg | width=20)
 ![html5](https://user-images.githubusercontent.com/55304809/163203030-892af0d5-da29-43ef-b272-8bf1d15445ff.svg | width=20)
 ![css3](https://user-images.githubusercontent.com/55304809/163203190-b44771c3-b2db-43f7-bfc7-2e9e8447df91.svg | width=20)
