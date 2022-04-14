@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img width=70% src="https://user-images.githubusercontent.com/55304809/163339058-6ca0a799-f278-49a3-810c-343c5d4b4003.gif"></p>
 
 ## Some languages I use/know:
 <p float="left" id="languages">
@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/55304809/163203418-86548c26-9bd9-4efe-a409-641c1e51b2a4.svg" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/55304809/163203424-bae0abee-2102-4376-b90a-bf3909fae717.svg" width="30px">
 </p>
-                                                                                                                             
+                                                                                                                      
 ## Tools I use and other information:
 
 <img src="https://user-images.githubusercontent.com/55304809/163206260-ebb1b88b-23ba-4f8d-84cb-d1a74754d800.svg" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;
