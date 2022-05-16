@@ -30,7 +30,6 @@
 ## Portfolio:
 
 - Microsoft Imagine Cup Junior 2022
-- Singapore National Olympiad in Informatics [NOI] 2022 Qualifying Round
 - SMU Whitehacks CTF 2022
 - Nullcon Winja CTF 2022
 - Cybergrabs CTF 2022
